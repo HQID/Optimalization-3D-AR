@@ -8,6 +8,15 @@ Project ini adalah implementasi Augmented Reality (AR) berbasis **Image Tracking
 
 Aplikasi ini mendeteksi 6 marker berbeda dan memunculkan model 3D zonasi area yang telah dioptimasi secara agresif namun tetap mempertahankan kualitas visual.
 
+## 😎 Anggota Kelompok
+
+* Novita Fadhilah F55123002
+* Suparman F55123006
+* Hasby Ashidiq F55123010
+* Muh. Qhiran N F55123021
+* Fahril Hande F55123034
+* Angelina Febriani M F55123084
+
 ## 🚀 Fitur Utama
 
 * **Multi-Image Tracking:** Mendeteksi dan melacak 6 marker unik secara simultan atau bergantian.
